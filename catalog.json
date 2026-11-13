@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "pacific-rush",
+      "name": "Pacific Rush",
+      "repo": "maccam912/racinggame",
+      "kind": "game",
+      "description": "A colorful 3D arcade circuit racer: eight cars, forty courses."
+    },
+    {
+      "id": "simulateds",
+      "name": "Simulateds",
+      "repo": "maccam912/simulateds",
+      "kind": "game",
+      "description": "A cooperative life simulation with persistent households and peer-to-peer multiplayer."
+    },
+    {
+      "id": "sunny-paws",
+      "name": "Sunny Paws Sanctuary",
+      "repo": "maccam912/pet_sanctuary",
+      "kind": "game",
+      "description": "Look after the animals at a cozy pet sanctuary."
+    },
+    {
+      "id": "paint-n-seek",
+      "name": "Paint-n-Seek",
+      "repo": "maccam912/mega-chamomile",
+      "kind": "game",
+      "description": "Hide-and-seek where you paint yourself into the scenery."
+    },
+    {
+      "id": "rubblekin",
+      "name": "Rubblekin",
+      "repo": "maccam912/rubblekin",
+      "kind": "game",
+      "description": "A multiplayer voxel valley with independent inhabitants."
+    }
+  ]
+}
