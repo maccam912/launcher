@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "entries": [
     {
       "id": "pacific-rush",
@@ -35,6 +35,13 @@
       "repo": "maccam912/rubblekin",
       "kind": "game",
       "description": "A multiplayer voxel valley with independent inhabitants."
+    },
+    {
+      "id": "great-expedition",
+      "name": "The Great Expedition",
+      "repo": "maccam912/great-expedition",
+      "kind": "game",
+      "description": "Co-op adventure: tiny explorers cross a procedurally generated wilderness."
     }
   ]
 }
